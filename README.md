@@ -43,12 +43,6 @@ This project involves analyzing a dataset of players to uncover insights about s
    ```bash
    git clone https://github.com/Kronos565/Player-and-Team-analysis.git
    ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd player-team-analysis
-   ```
-
 ---
 
 ## Insights
