@@ -60,7 +60,7 @@ This project involves analyzing a dataset of players to uncover insights about s
   Most players fall into the `25-29` age range, indicating that teams prioritize players in their prime.  
 
 - **Salary Expenditures:**  
-  High-value roles like **Point Guards** and **Shooting Guards** dominate salary expenditures, reflecting their critical impact on team performance.  
+  High-value roles like **PG** and **SG** dominate salary expenditures, reflecting their critical impact on team performance.  
 
 - **Age vs. Salary Correlation:**  
   While there is a slight positive correlation, salary is influenced more by player role and performance than age.
