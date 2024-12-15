@@ -41,7 +41,7 @@ This project involves analyzing a dataset of players to uncover insights about s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/player-team-analysis.git
+   git clone https://github.com/Kronos565/Player-and-Team-analysis.git
    ```
 
 2. Navigate to the project directory:
