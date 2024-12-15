@@ -49,16 +49,6 @@ This project involves analyzing a dataset of players to uncover insights about s
    cd player-team-analysis
    ```
 
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Open the Jupyter Notebook to explore the code and visualizations:
-   ```bash
-   jupyter notebook analysis.ipynb
-   ```
-
 ---
 
 ## Insights
